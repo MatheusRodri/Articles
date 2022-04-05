@@ -1,0 +1,21 @@
+# Meu começo na programação
+
+O ano é 2017 mais precisadamente em outubro quando minha mãe resolveu colocar em um curso de informática(o curso era de segunda a sexta das 13:20 as 18:30 de Janeiro a dezembro com ferias em julho) Nossa
+instituto social Nossa Senhora de Fatima (Frei) na Zona Sul de São Paulo, me lembro perfeitamente que de 
+inicio não gostei muito mas mesmo assim segui em frente, ainda mais que sempre gostei de mexer em 
+computador (clique aqui para ver meu primeiro contato com tecnologia). 
+Então no final de janeiro de 2018, começa o curso, na primeira semana os professores falaram o que nós 
+íamos ver durante o ano, e foi ai que o professor de programação falou que nós íamos aprender CSharp (C#)
+e o que era possível fazer com programação na hora eu me animei e me dediquei ao curso. Nesse mesmo 
+curso vi um pouco de manutenção de computadores, como subir e configurar um servidor e também vi o banco 
+de dados relacional MySql.
+Logo depois das ferias de julho, começamos a desenvolver o projeto integrador, que se trata de um projeto 
+na qual nós da informática temos que montar um sistema para as empresas da turma de administração (A
+turma de informática e administração eram dividas em subgrupos)
+Assim que terminou o curso no final de 2018, eu fiquei fora do mundo da programação, voltando somente no
+final de 2019 que foi quando eu realmente comecei a estudar firme.
+Me lembro que só tinha estudado HTML e CSS, javascript eu só sabia o básico e mesmo assim me inscrevi na semana omminiStack(Atualmente Next Level Week) da Rocketseat, e lá foi ensinado como criar um app de radar de Devs (Similar ao Tinder só que de desenvolvedores) infelizmente o conteúdo era muito avançado e só consegui até a aula 2 no total de 5. Isso me fez querer estudar mais e varias linguagens. 
+Atualmente estudo Flutter, DotNet6, VueJs e Desenvolvimento nativo para Android com java.
+
+# My begin in programming
+
